@@ -3,7 +3,7 @@
 	
 	EXAMPLE CONFIGURATION
 
-		var defaultKey	= 'AD8e9T4aype9oaZxOJfBSJnEkmMfrg16mC2wFugAwlQWqjxh', // Unique master Xively API key to be used as a default
+		var defaultKey	= 'U12Afc8HQoW8pG2GwHkJGIl76SoAn9R1psaDmlR4MFbADdVC', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [164455204], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Temp Viz, // Replaces Xively logo in the header
 		dataDuration	= '90days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
